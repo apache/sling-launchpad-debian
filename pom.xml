@@ -37,9 +37,9 @@ under the License.
         as a system daemon.
     </description>
     <scm>
-        <connection>scm:svn:http://svn.apache.org/repos/asf/sling/trunk/launchpad/builder/debian</connection>
-        <developerConnection>scm:svn:https://svn.apache.org/repos/asf/sling/trunk/launchpad/builder/debian</developerConnection>
-        <url>http://svn.apache.org/viewvc/sling/trunk/launchpad/builder/debian</url>
+        <connection>scm:git:https://gitbox.apache.org/repos/asf/sling-launchpad-debian.git</conncetion>
+        <developerConnection>scm:git:https://gitbox.apache.org/repos/asf/sling-launchpad-debian.git</developerConnection>
+        <url>https://gitbox.apache.org/repos/asf?p=sling-launchpad-debian.git</url>
     </scm>
     <properties>
         <!--
