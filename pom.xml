@@ -39,7 +39,7 @@ under the License.
     <scm>
         <connection>scm:git:https://gitbox.apache.org/repos/asf/sling-launchpad-debian.git</connection>
         <developerConnection>scm:git:https://gitbox.apache.org/repos/asf/sling-launchpad-debian.git</developerConnection>
-        <url>https://gitbox.apache.org/repos/asf?p=sling-launchpad-debian.git</url>
+        <url>https://github.com/apache/sling-launchpad-debian.git</url>
     </scm>
     <properties>
         <!--
